@@ -70,3 +70,13 @@ By using this repository you agree to:
 - **Comply with applicable laws and organizational policies.
   
 The maintainers disclaim liability for misuse. Misuse of HID emulation devices can be illegal and cause serious harm.
+
+---
+
+## Author
+
+**Sai Nassim**
+
+**Institution:** TEK-UP University, Tunisia
+
+---
