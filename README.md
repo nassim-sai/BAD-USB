@@ -13,11 +13,11 @@ BAD‑USB is an open‑source hardware and firmware project demonstrating USB HI
 
 
 <div align="center"> 
-  <img src="https://github.com/nassim-saii/BAD-USB/blob/main/Pic1.jpg" alt="screenshot" width="Auto" height="Auto" />
+  <img src="https://github.com/nassim-sai/BAD-USB/blob/main/Pic1.jpg" alt="screenshot" width="Auto" height="Auto" />
 </div>
 <div align="center">
-  <img src="https://github.com/nassim-saii/BAD-USB/blob/main/PICs/F-Front%20%20View.png"  width="350"/> 
-  <img src="https://github.com/nassim-saii/BAD-USB/blob/main/PICs/F-Back%20View.png"  width="350"/>
+  <img src="https://github.com/nassim-sai/BAD-USB/blob/main/PICs/F-Front%20%20View.png"  width="350"/> 
+  <img src="https://github.com/nassim-sai/BAD-USB/blob/main/PICs/F-Back%20View.png"  width="350"/>
 </div>
 
 ---
@@ -45,7 +45,7 @@ BAD‑USB is an open‑source hardware and firmware project demonstrating USB HI
 ## Quick start — environment preparation
 1. Clone the repository:
 ```bash
-git clone https://github.com/nassim-saii/BAD-USB.git
+git clone https://github.com/nassim-sai/BAD-USB.git
 cd BAD-USB
 ```
 
